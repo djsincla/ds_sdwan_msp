@@ -53,7 +53,7 @@ Name – The name given to this Modular Input. It is recommended to give it the 
 
 VCO URL – The https URL of the VMware SD-WAN VCO. As an example, https://vco84-usvi1.velocloud.net
 
-Username – The VeloCloud Orchestrator username for a VCO Enterprise User.
+Username – The VeloCloud Orchestrator username for a VCO MSP User.
 
 API Token – The API Token generated against this username.
 
