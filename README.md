@@ -30,6 +30,7 @@ For support, you can log an issue at https://github.com/djsincla/ds_sdwan_events
 -          2.0.4 Initial Release
 - 05/30/23 2.0.7 Updated Splunklib and updated requests.post from verify=False to default verifiy=True for SplunkCloud
 - 09/15/23 2.0.8 Updated Splunklib and removed installchecksum from config file to meet SplunkCLoud requirements
+- 05/06/24 2.0.10 Updated Splunklib and removed python3 references since python3 is now the default.
 
 # With thanks to:
 Ken Guo, Andrew Lohman, Kevin Fletcher, Jeff Justice
